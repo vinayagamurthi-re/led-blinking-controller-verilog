@@ -79,4 +79,4 @@ The current simulation checks the following:
   
 - ## Simulation Waveform
   
-![LED Blinking Controller waveform](led_blinker_waveform.png)
+![LED Blinker Waveform](led_blinker_waveform.png)
