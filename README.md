@@ -78,5 +78,5 @@ The current simulation checks the following:
 - Explore FPGA implementation when hardware becomes available.
 - 
 - ## Simulation Waveform
-- 
+  
 ![LED Blinking Controller waveform](waveform/led_blinker_waveform.png)
