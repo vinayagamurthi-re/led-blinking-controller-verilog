@@ -76,7 +76,7 @@ The current simulation checks the following:
 - Add more reset test cases.
 - Improve testbench checks for timing and counter behavior.
 - Explore FPGA implementation when hardware becomes available.
-- 
+  
 - ## Simulation Waveform
   
 ![LED Blinking Controller waveform](waveform/led_blinker_waveform.png)
